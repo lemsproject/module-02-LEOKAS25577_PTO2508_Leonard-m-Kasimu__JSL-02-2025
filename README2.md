@@ -16,9 +16,3 @@ Before starting this project, refer to the provided Figma design for layout, sty
 ## Overview
 
 This project involves developing a **visually accurate and fully responsive Kanban board** that aligns with the provided **Figma design**. The board should be structured into multiple columns and include task cards, a static side panel, and a well-defined theme to ensure a **professional and polished user experience.**
-
-## Before You Begin
-
-**Check the project user stories in your student dashboard** before you start building.
-
-## Key Objectives
