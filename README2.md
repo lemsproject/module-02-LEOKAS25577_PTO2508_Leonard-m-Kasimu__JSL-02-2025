@@ -16,3 +16,8 @@ Before starting this project, refer to the provided Figma design for layout, sty
 ## Overview
 
 This project involves developing a **visually accurate and fully responsive Kanban board** that aligns with the provided **Figma design**. The board should be structured into multiple columns and include task cards, a static side panel, and a well-defined theme to ensure a **professional and polished user experience.**
+all the details of the design, such as colours, typography, spacing, and layout, should be closely followed to create a cohesive and visually appealing interface. The responsive design should ensure that the Kanban board looks and functions well on both laptops and mobile devices, providing a seamless user experience across different screen sizes.
+The task cards should be designed to clearly display the task information, with appropriate borders, shadows, and padding to enhance readability and visual appeal. The static side panel should include the correct icons, text, and branding elements as specified in the Figma design to maintain a consistent and professional look throughout the application.
+
+All that i can say is, this project is a great opportunity to practice and enhance my front-end development skills, especially in creating responsive and visually appealing user interfaces. The Kanban board is a popular tool for project management, and implementing it based on a design can help me understand the importance of attention to detail and consistency in UI development.
+though javaScript is still a bit challenging for me, i am excited to take on this project and learn how to translate design specifications into functional code. I look forward to sharing my progress and final implementation with you all!
